@@ -54,7 +54,7 @@ The grayscale filter takes an image and converts it to black-and-white. A pixel 
 The reflection filter takes an image and produces the mirror image of the original picture. To achieve this filter, an algorithm iterates through every row of pixels in the image and essentially flips the entire row to obtain the desired result.
 
 ### Sepia
-The seoia fiter takes an image and gives it an an old-timey feel by making the whole image look a bit reddish-brown. To achieve this filter, an algorithm iterates through every pixel in the image and utilizes certain formulas that calculates the sepia value for each red, green, and blue subpixel. 
+The sepia filter takes an image and gives it an old-timey feel by making the whole image look a bit reddish-brown. To achieve this filter, an algorithm iterates through every pixel in the image and utilizes certain formulas that calculate the sepia value for each red, green, and blue subpixel. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
