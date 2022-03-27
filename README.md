@@ -18,6 +18,11 @@
   <summary>Table of Contents</summary>
 
   - [About The Project](#about-the-project)
+    - [Blur](#blur)
+    - [Edges](#edges)
+    - [Grayscale](#grayscale)
+    - [Reflection](#reflection)
+    - [Sepia](#sepia)
   - [Getting Started](#getting-started)
   - [License](#license)
   - [Contact](#contact)
