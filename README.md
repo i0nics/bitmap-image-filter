@@ -84,18 +84,17 @@ Get a local copy up and running by following these simple steps:
     ./filter -e input_image.bmp output_image.bmp
     ```
   * Grayscale
-   ```sh
-   ./filter -g input_image.bmp output_image.bmp
-   ```
-  * Reflection
-  
-   ```sh
-   ./filter -r input_image.bmp output_image.bmp
-   ```
-   * Sepia
     ```sh
-   ./filter -s input_image.bmp output_image.bmp
-   ```
+    ./filter -g input_image.bmp output_image.bmp
+    ```
+  * Reflection
+    ```sh
+    ./filter -r input_image.bmp output_image.bmp
+    ```
+  * Sepia
+    ```sh
+    ./filter -s input_image.bmp output_image.bmp
+    ```
    
 <p align="right">(<a href="#top">back to top</a>)</p>
 
